@@ -1,0 +1,5 @@
+{
+  "name": "Chemistry Mole Calculation Quiz",
+  "description": "An interactive quiz application for chemistry students to practice mole calculations. It provides instant feedback, detailed solutions, and generates a shareable report card.",
+  "requestFramePermissions": []
+}
